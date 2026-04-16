@@ -1,4 +1,3 @@
-=== GENERATING: MainForm.Designer.cs ===
 namespace PasswordVault
 {
     partial class MainForm

@@ -1,4 +1,3 @@
-=== GENERATING: PasswordEntry.cs ===
 using System;
 
 namespace PasswordVault
